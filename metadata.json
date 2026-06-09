@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Tic Tac Toe",
+  "description": "A polished Tic Tac Toe game featuring local two-player, score tracking, local network play, and online multiplayer matches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
